@@ -1,0 +1,22 @@
+CREATE TABLE 1801(user_xuehao INT PRIMARY KEY AUTO_INCREMENT,user_mingzi VARCHAR(10),user_nianling INT PRIMARY KEY AUTO_INCREMENT,user_xingbie VARCHAR(10),user_ruxuesj DATE);
+
+
+INSERT INTO SH VALUES(200003,"»ÆÆÒÇø","ÉÕ°×ÌÒ","ÍâÌ²");
+
+user_RX DATE
+CREATE TABLE h51801(user_ INT PRIMARY KEY AUTO_INCREMENT,user_ VARCHAR(30),user_nl INT PRIMARY KEY AUTO_INCREMENT,user_xb VARCHAR(30),user_rq DATE);
+
+
+
+
+
+
+
+CREATE TABLE h51801(user_id INT PRIMARY KEY AUTO_INCREMENT,user_name VARCHAR(30),user_age INT PRIMARY KEY AUTO_INCREMENT,user_gender VARCHAR(30),user_rxsj DATE);
+CREATE TABLE h51802(
+	  user_id INT PRIMARY KEY AUTO_INCREMENT,
+	  user_name VARCHAR(30),
+	  user_age INT,
+	  user_gender VARCHAR(30),
+	  user_sj DATE);
+INSERT INTO h51802 VALUES(1005,"½ªÊÀÀë",88,"ÄÐ","2018-04-15");
